@@ -1,20 +1,20 @@
 
 # Asp.Net-Mvc-Sozluk-proje-katmanli-mimari
-Sözlük Projesi
+Sözlük Projesi,
 Projede kullanılanlar,
 Business,Entity,Data Access,Presentation olarak 4 katmanlı geliştirildi.
-Solid prensiplerine uygun olarak tasarım yapıldı
-Entity Framework Code first
-Fluent validation
-Authentication
-Session
-Allow Anonymous
-Roles
-Login-Logout
-IFrame
-Bootstrap 4 Responsive Datatable and Export to PDF, CSV
-Sweet Alert
-MSSQL
+Solid prensiplerine uygun olarak tasarım yapıldı,
+Entity Framework Code first,
+Fluent validation,
+Authentication,
+Session,
+Allow Anonymous,
+Roles,
+Login-Logout,
+IFrame,
+Bootstrap 4 Responsive Datatable and Export to PDF, CSV,
+Sweet Alert,
+MSSQL,
 
 ![AdminBaşlıklar](https://github.com/EfeTolga1/Asp.Net-Mvc-Sozluk-proje-katmanli-mimari/assets/110568053/f818a732-6e12-45ea-a045-00ddea10274d)
 ![AdminAdminGiris](https://github.com/EfeTolga1/Asp.Net-Mvc-Sozluk-proje-katmanli-mimari/assets/110568053/b48533bc-d2f6-4a32-a0b7-b4b032b9535c)
